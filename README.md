@@ -11,6 +11,7 @@ Tools Used
 ## Network Layouts
 
 ##  Layout 1: Fruchterman Reingold
+![Capture2](https://user-images.githubusercontent.com/93222496/163683223-f36ff908-cf94-4d72-8d40-affa5984c919.PNG)
 
 ## Layout 2: Force Atlas 2
-![2022-04-16 (4)](https://user-images.githubusercontent.com/93222496/163683111-f5e30634-933c-49fd-bb47-2b42fb776f09.png)
+![2022-04-16 (3)](https://user-images.githubusercontent.com/93222496/163683247-324bc1fb-204c-4fe9-bf07-431181b80596.png)
