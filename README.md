@@ -18,3 +18,7 @@ Tools Used
 
 ## Differentiated by Modularity Class
 ![2022-04-18 (3)](https://user-images.githubusercontent.com/93222496/163772335-6d51c1d3-f016-4942-bbe3-9be4e422b589.png)
+
+## Edges
+<img width="1406" alt="Screenshot 2022-04-18 at 12 36 32 PM" src="https://user-images.githubusercontent.com/93222496/163772860-a5b22462-ef8e-48c7-9358-26f465d11545.png">
+
