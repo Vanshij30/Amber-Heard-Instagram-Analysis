@@ -15,3 +15,6 @@ Tools Used
 
 ## Layout 2: Force Atlas 2
 ![2022-04-16 (3)](https://user-images.githubusercontent.com/93222496/163683247-324bc1fb-204c-4fe9-bf07-431181b80596.png)
+
+## Differentiated by Modularity Class
+![2022-04-18 (3)](https://user-images.githubusercontent.com/93222496/163772335-6d51c1d3-f016-4942-bbe3-9be4e422b589.png)
